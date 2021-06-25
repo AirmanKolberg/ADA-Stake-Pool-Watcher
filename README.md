@@ -16,6 +16,8 @@ you) periodically with an update.
 3. Write your staking pool into `ada_pool.txt`
 4. `python3 main.py` and away you go!
 
+Note:  This app is currently set to notify you every day at around 8am and 8pm.
+
 ---
 
 ### Donations!
